@@ -1,30 +1,50 @@
-# 🧠 AI Health Monitoring Agent
+ AI Health Intelligence System
 
-A full-stack AI-powered health monitoring system that provides personalized health recommendations using wearable data and multi-agent intelligence.
+An advanced full-stack AI-driven health analytics platform designed to monitor, analyze, and optimize personal wellness using wearable sensor data and intelligent multi-agent decision systems.
 
----
+ Core Features
 
-## 🚀 Features
-- Wearable data ingestion (Fitbit – mock integration)
-- Multi-agent AI system:
-  - Nutrition Agent
-  - Exercise Planning Agent
-  - Sleep Analysis Agent
-  - Anomaly Detection Agent
-- ScaleDown-based long-term health memory
-- Personalized goal setting
-- Clean web UI with HTML & CSS
-- FastAPI backend with Swagger documentation
+ Real-time wearable data simulation (Fitbit-inspired integration)
 
----
+ Intelligent Multi-Agent Framework:
 
-## 🏗 Architecture
-- **Backend:** FastAPI
-- **Frontend:** HTML, CSS, JavaScript
-- **AI Logic:** Multi-agent reasoning
-- **Health Memory:** ScaleDown summarization
+ Nutrition Recommendation Agent
 
----
+ Exercise Strategy Agent
+
+ Sleep Optimization Agent
+
+ Health Risk & Anomaly Detection Agent
+
+ Long-term health memory using intelligent summarization
+
+ Personalized wellness goal tracking
+
+ Responsive and clean Web Interface (HTML, CSS, JavaScript)
+
+ FastAPI backend with interactive Swagger API documentation
+
+ System Architecture
+
+Backend: FastAPI (Python-based REST API)
+
+Frontend: HTML, CSS, Vanilla JavaScript
+
+AI Layer: Rule-based + reasoning-driven multi-agent coordination
+
+Health Memory Engine: Smart summarization for long-term insights
+
+ Objective
+
+To build a modular and scalable AI-powered health assistant capable of:
+
+Monitoring daily activity patterns
+
+Detecting potential health risks
+
+Providing actionable recommendations
+
+Continuously learning from user health history
 
 ## ▶️ How to Run Locally
 
